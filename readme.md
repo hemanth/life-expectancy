@@ -78,7 +78,7 @@ In the above response, here is what the keys represent:
 
 * rank => Out of all the countires in the world, where does this coutnry stand in terms of life expectancy, lesser the rank higher the life expectancy. 
 
-P.S: The data is prased from World Health Statistics 2016.
+P.S: The data is parsed from World Health Statistics 2016.
 
 ## License
 
