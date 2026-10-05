@@ -1,6 +1,6 @@
 {
   "name": "life-expectancy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Life expectancy of humans across the global.",
   "license": "MIT",
   "repository": "hemanth/life-expectancy",
@@ -25,7 +25,7 @@
     "age"
   ],
   "dependencies": {
-    "country-list": "^1.1.0"
+    "country-list": "^2.4.1"
   },
   "devDependencies": {
     "ava": "^0.15.2"

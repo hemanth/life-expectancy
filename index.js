@@ -1,6 +1,6 @@
 'use strict';
 const life = require('./life.json');
-const countries = require('country-list')();
+const countries = ((c) => typeof c === 'function' ? c() : c)(require('country-list'));
 
 module.exports = (input) => {
 	if (typeof input !== 'string') {
